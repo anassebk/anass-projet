@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/> 
+    <meta name="Jumbo restaurant" content="menu, plats et desert" /> 
+    <title>Jumbo</title>
+</head>
+<body>
+  
+    <h1>JUMBO RESTAURANT</h1>
+    <h2>Manger a petit prix !</h2>
+    <div style="text-align: center;">
+    <img src="2.png" width="105" />
+    </div>
+    <li><a href="JUMBO.html">Accueil</a></li>
+    <li><a href="CV.pdf">Menu</a></li>
+    <li><a href="CV.pdf">contacter-nous </a></li>
+
+<h3>Bienvenue sur notre site web, Commandez votre plat! </h3>
+<div style="text-align: center;">
+    <img src="tajine.webp" alt="pas de connexion" width="600" />
+</div>
+<div>
+<p><i>Notre cuisine</i></p>
+<p>La cuisine marocaine à la rencontre <b>des herbes et des épices</b> d’ici et d’ailleurs.</p>
+<p>L’Amour et la Folie vous propose des plats « familiers » et des envies de saveurs originales ou différentes.</p>
+<p>Tout au long des quatre saisons, L’Amour et la Folie réinvente sa carte pour proposer une cuisine qui s’ouvre 
+aux meilleurs produits provenant le plus souvent <b>des circuits courts ou bio !</b></p>
+<p>Une place d’honneur et de choix est faite <b>aux herbes et aux légumes rares</b> aux herbes et aux légumes rares et… de saison ! Cresson, oignons confits, carottes, vitelotte (une pomme de terre violette des plus savoureuses), panais s’accoquinent avec le gingembre, la cardamome, le tonka ou le romarin…</p>
+<p>Une cuisine heureuse et surprenante faite d’amour et de folie !</p>
+</div>
+
+
+
+<nav>
+<ul>
+
+<a href="agregation.html">Agregation</a></li>
+<a href="recherche.html">Recherche</a></li>
+</ul>
+</nav>
+<div id="contenu">
+
+<div id="contact">
+<p>Pour toute question vous pouvez me contacter a l'adresse
+<span>prenom[dot]nom[at]adresse[dot]fr.</span></p>
+</div>
+</div>
+</body>
+</html>
